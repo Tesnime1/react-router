@@ -6,7 +6,7 @@ const movies = [
   {
     id: 1,
     title: "spiderman",
-    desc: "film de marvel qui a fait du buzz",
+    desc: "film de marvel qui a fait le buzz",
     img: spider,
     rating: "4 stars",
   },
